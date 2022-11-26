@@ -1,14 +1,10 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom'
-import Component from '../components/Star';
-import LikeButton from '../components/LikeButton';
-
+import Component from '../Components/Star';
+import LikeButton from '../Components/LikeButton';
 
 export default function MovieDetail() {
   const { state } = useLocation();
-
-  
-
     
   return (
     <div className="page-container">

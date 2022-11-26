@@ -1,5 +1,5 @@
 import React from 'react'
-import Movie from '../components/Movie';
+import Movie from '../Components/Movie';
 import MovieData from "../MovieData.json"
 
 export default function Movies() {  
