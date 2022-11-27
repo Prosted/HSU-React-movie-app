@@ -11,8 +11,8 @@ export default function NavBar() {
         <BsSearch color="white" size={20} />
         <BsHeart color="white" size={20} />
         <BiShoppingBag color="white" size={25} />
-        <MyMovie>my movies</MyMovie>
-        <MyMovie>로그아웃</MyMovie>
+        <MyMovie>리액트 10팀</MyMovie>
+        <MyMovie>화이팅</MyMovie>
       </ButtonWrapper>
     </NavBarWrapper>
   );
