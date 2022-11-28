@@ -2,7 +2,7 @@
     {
         "id" : 1,
         "title" : "기생충",
-        "poster_url" : "https://movie-phinf.pstatic.net/20190528_36/1559024198386YVTEw_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/tRL0XSLJ/01.jpg",
         "flim_rating" : 15,
         "country" : "대한민국",
         "distributor" :  "CJ ENM",
@@ -20,7 +20,7 @@
     {
         "id" : 2,
         "title" : "관상",
-        "poster_url" : "https://movie-phinf.pstatic.net/20130819_110/1376895907326wlXma_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/05XbfwbD/02.jpg",
         "flim_rating" : 15,
         "country" : "대한민국",
         "distributor" :  "(주)쇼박스",
@@ -38,7 +38,7 @@
     {
         "id" : 3,
         "title" : "명량",
-        "poster_url" : "https://movie-phinf.pstatic.net/20140721_186/1405911310756Tt2X1_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/PqxWXhGG/03.jpg",
         "flim_rating" : 15,
         "country" : "대한민국",
         "distributor" :  "CJ 엔터테인먼트",
@@ -56,7 +56,7 @@
     {
         "id" : 4,
         "title" : "한산",
-        "poster_url" : "https://movie-phinf.pstatic.net/20220727_209/1658912961873lVd2W_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/g0Xxt0F0/04.jpg",
         "flim_rating" : 12,
         "country" : "대한민국",
         "distributor" :  "롯데엔터테인먼트",
@@ -74,7 +74,7 @@
     {
         "id" : 5,
         "title" : "광해",
-        "poster_url" : "https://movie-phinf.pstatic.net/20121018_114/13505269047497LGt6_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/L8h5hssV/05-jpg.jpg",
         "flim_rating" : 15,
         "country" : "대한민국",
         "distributor" :  "CJ 엔터테인먼트",
@@ -92,7 +92,7 @@
     {
         "id" : 6,
         "title" : "국제시장",
-        "poster_url" : "https://movie-phinf.pstatic.net/20141124_107/141679124450580TTS_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/65CJcJmN/06.jpg",
         "flim_rating" : 12,
         "country" : "대한민국",
         "distributor" :  "CJ ENM",
@@ -110,7 +110,7 @@
     {
         "id" : 7,
         "title" : "암살",
-        "poster_url" : "https://movie-phinf.pstatic.net/20150713_74/14367488229802tA3J_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/NMR7VDqL/07.jpg",
         "flim_rating" : 15,
         "country" : "대한민국",
         "distributor" :  "(주)쇼박스",
@@ -128,7 +128,7 @@
     {
         "id" : 8,
         "title" : "부산행",
-        "poster_url" : "https://movie-phinf.pstatic.net/20200612_248/1591937633750Vvyr6_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/zBP5sCCZ/08.jpg",
         "flim_rating" : 15,
         "country" : "대한민국",
         "distributor" :  "(주)NEW",
@@ -146,7 +146,7 @@
     {
         "id" : 9,
         "title" : "아바타",
-        "poster_url" : "https://movie-phinf.pstatic.net/20180518_218/1526609377997LxLgL_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/BQbNZx27/09.jpg",
         "flim_rating" : 12,
         "country" : "미국",
         "distributor" :  "해리슨앤컴퍼니",
@@ -164,7 +164,7 @@
     {
         "id" : 10,
         "title" : "컨저링2",
-        "poster_url" : "https://movie-phinf.pstatic.net/20160525_161/1464156291880IEpkO_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/k4ZFh55M/10.jpg",
         "flim_rating" : 15,
         "country" : "미국",
         "distributor" :  "워너 브러더스 코리(주)",
@@ -182,7 +182,7 @@
     {
         "id" : 11,
         "title" : "인터스텔라",
-        "poster_url" : "https://movie-phinf.pstatic.net/20160106_138/1452044846608eaFcJ_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/JhHh57S5/11.jpg",
         "flim_rating" : 12,
         "country" : ["미국 ", "영국"],
         "distributor" :  "워너 브러더스 코리(주)",
@@ -200,7 +200,7 @@
     {
         "id" : 12,
         "title" : "마션",
-        "poster_url" : "https://movie-phinf.pstatic.net/20151014_112/1444802557577pCaPD_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/mkDJ7k5b/12.jpg",
         "flim_rating" : 12,
         "country" : "미국, 영국",
         "distributor" :  "이십세기폭스코리아(주)",
@@ -218,7 +218,7 @@
     {
         "id" : 13,
         "title" : "라라랜드",
-        "poster_url" : "https://movie-phinf.pstatic.net/20201229_146/1609226288425JgdsP_JPEG/movie_image.jpg",
+        "poster_url" : "https://i.postimg.cc/kM1kqN2D/13.jpg",
         "flim_rating" : 12,
         "country" : "미국",
         "distributor" :  "판씨네마(주)",
