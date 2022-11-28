@@ -1,9 +1,9 @@
 import { useParams } from "react-router-dom";
 import { useLocation } from 'react-router-dom'
 import MovieData from "../MovieData.json";
-import Movie from '../components/Movie';
-import Component from '../components/Star';
-import LikeButton from '../components/LikeButton';
+import Movie from '../Components/Movie';
+import Component from '../Components/Star';
+import LikeButton from '../Components/LikeButton';
 
 export default function MovieInfo() {
   const { id } = useParams();

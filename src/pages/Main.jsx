@@ -1,7 +1,7 @@
 import movieData from "../MovieData.json";
-import NavBar from "../components/NavBar";
+import NavBar from "../Components/NavBar";
 import styled from "styled-components";
-import MovieCards from "../components/MovieCards";
+import MovieCards from "../Components/MovieCards";
 
 export default function Main() {
   const genres = ["드라마", "사극", "액션", "스릴러", "SF"];
